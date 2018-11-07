@@ -5,3 +5,6 @@ out
 mql-platform.iml
 .classpath
 .project
+bin
+.classpath
+.project
